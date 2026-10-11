@@ -1,0 +1,13 @@
+# Archives and documents
+*.zip
+*.pdf
+
+# Raw dataset (too large for GitHub; see README)
+Data/
+
+# Secrets and Terraform state
+secrets.tfvars
+*.tfvars
+*.tfstate
+*.tfstate.*
+.terraform/
